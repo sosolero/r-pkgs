@@ -129,6 +129,7 @@ Use the following code to access new devtools functions as I develop them. This 
 ```{r, eval = FALSE}
 devtools::install_github("hadley/devtools")
 ```
+Note that most users will not need to use github version. R cran version is stable.
 
 You'll also need a C compiler and a few other command line tools. If you're on Windows or Mac and you don't already have them, RStudio will install them for you. Otherwise:
 
